@@ -7,7 +7,7 @@
     "node": ">=8"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.2.5",
+    "@babel/polyfill": "^7.4.4",
     "@union-liferay-ssr/widget-content": "^0.12.1",
     "@union-liferay-ssr/widget-hero": "^0.12.1",
     "document-ready": "^2.0.2",
