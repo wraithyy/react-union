@@ -33,7 +33,7 @@
     "@babel/plugin-transform-react-constant-elements": "^7.5.0",
     "@babel/plugin-transform-regenerator": "^7.4.5",
     "@babel/plugin-transform-runtime": "^7.5.5",
-    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
     "@babel/runtime": "^7.3.1",
     "babel-plugin-universal-import": "^4.0.0"
